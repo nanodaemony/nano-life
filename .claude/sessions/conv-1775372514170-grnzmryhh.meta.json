@@ -1,0 +1,19 @@
+{
+  "id": "conv-1775372514170-grnzmryhh",
+  "title": "Create reading notes with template for given books",
+  "titleGenerationStatus": "success",
+  "createdAt": 1775372514173,
+  "updatedAt": 1775373147955,
+  "lastResponseAt": 1775373065614,
+  "sessionId": "44edc8ce-6c8f-4b41-9c8d-5091dd1cc9d4",
+  "sdkSessionId": "44edc8ce-6c8f-4b41-9c8d-5091dd1cc9d4",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 25324,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 0,
+    "contextWindow": 200000,
+    "contextTokens": 25324,
+    "percentage": 13
+  }
+}

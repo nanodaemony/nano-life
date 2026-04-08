@@ -1,0 +1,246 @@
+{
+  "main": {
+    "id": "d12442c175cf4c99",
+    "type": "split",
+    "children": [
+      {
+        "id": "c83345501ec12e28",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "303f944acded2e6a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "M-杂项/摄影基础.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "摄影基础"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7086e562630438d6",
+    "type": "split",
+    "children": [
+      {
+        "id": "4c5d0cfb31647478",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d6f951a737894e7e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "ed3b9d77622d8bc6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "0e5749e2ed27d62e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 217.50418853759766
+  },
+  "right": {
+    "id": "53a60cc5c127212d",
+    "type": "split",
+    "children": [
+      {
+        "id": "8f43c939b423a191",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8a30bd08be49eb5d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "345/234234234.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "234234234 的反向链接列表"
+            }
+          },
+          {
+            "id": "9dd718b6c7fb5e78",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "MySQL索引.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "MySQL索引 的出链列表"
+            }
+          },
+          {
+            "id": "add06c9ada290c42",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "3263b081217331f7",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "9d1b092851904120",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "M-杂项/摄影基础.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "摄影基础 的大纲"
+            }
+          },
+          {
+            "id": "7b5492aeecfe4609",
+            "type": "leaf",
+            "state": {
+              "type": "claudian-view",
+              "state": {},
+              "icon": "bot",
+              "title": "Claudian"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 225.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "claudian:Open Claudian": false
+    }
+  },
+  "active": "303f944acded2e6a",
+  "lastOpenFiles": [
+    "D-旅游/20251001-国庆-江西.md",
+    "zimg/202510-江西路线.pdf",
+    "D-旅游/旅行准备模板.md",
+    "zimg/Pasted image 20260405182445.png",
+    "zimg/Pasted image 20260405182425.png",
+    "M-杂项/驾校考试.md",
+    "M-杂项/摄影基础.md",
+    "zimg/Pasted image 20260405155507.png",
+    "zimg/Pasted image 20260405155452.png",
+    "zimg/Pasted image 20260405155428.png",
+    "zimg/Pasted image 20260405155406.png",
+    "zimg/Pasted image 20260405155351.png",
+    "zimg/Pasted image 20260405155337.png",
+    "zimg/Pasted image 20260405155322.png",
+    "zimg/Pasted image 20260405155315.png",
+    "A-书架/10-摘录.md",
+    "B-生活/1-减肥.md",
+    "A-书架/2-影音/201806-日常.md",
+    "A-书架/2-影音/202108-奇巧计程车.md",
+    "A-书架/2-影音/影音模板.md",
+    "A-书架/2-影音/202406-我的阿勒泰.md",
+    "A-书架/2-影音/202410-山花烂漫时.md",
+    "A-书架/2-影音/202502-水浒传.md",
+    "A-书架/2-影音/202509-浪浪山的小妖怪.md",
+    "A-书架/2-影音/奇巧计程车.md.tmp.9160.1775373298624",
+    "A-书架/2-影音/水浒传.md.tmp.9160.1775373277762",
+    "A-书架/2-影音/浪浪山的小妖怪.md.tmp.9160.1775373271199",
+    "A-书架/2-影音/日常.md.tmp.9160.1775373221932",
+    "A-书架/2-影音/奇巧计程车.md.tmp.9160.1775373220145",
+    "A-书架/2-影音/我的阿勒泰.md.tmp.9160.1775373217860",
+    "A-书架/2-影音/水浒传.md.tmp.9160.1775373212438",
+    "A-书架/2-影音/浪浪山的小妖怪.md.tmp.9160.1775373209924",
+    "A-书架/1-读书笔记/读书笔记模板.md",
+    "A-书架/1-读书笔记/202207-明朝那些事.md",
+    "A-书架/1-读书笔记/202301-凤凰架构.md",
+    "A-书架/1-读书笔记/202301-皮囊.md",
+    "A-书架/1-读书笔记/202303-白鹿原.md",
+    "A-书架/1-读书笔记/202303-软技能-代码之外的生存指南.md",
+    "A-书架/1-读书笔记/202303-代码整洁之道.md",
+    "A-书架/1-读书笔记/明朝那些事.md.tmp.19112.1775372550732",
+    "A-书架/1-读书笔记/202403-深入理解Java虚拟机.md",
+    "A-书架/1-读书笔记/202305-曾国藩转.md",
+    "A-书架/1-读书笔记/202402-Kubernetes In Action.md",
+    "A-书架/1-读书笔记/202403-凡人修仙传.md",
+    "C-谨记/悟.md"
+  ]
+}

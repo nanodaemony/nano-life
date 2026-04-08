@@ -1,0 +1,20 @@
+{
+  "id": "conv-1775373202200-fm2vd94ap",
+  "title": "Create new media files from template for listed...",
+  "titleGenerationStatus": "success",
+  "createdAt": 1775373202200,
+  "updatedAt": 1775373321511,
+  "lastResponseAt": 1775373321511,
+  "sessionId": "dfa3c821-26e0-43b5-bd51-86486e2c7866",
+  "sdkSessionId": "dfa3c821-26e0-43b5-bd51-86486e2c7866",
+  "currentNote": "A-书架/2-影音/影音模板.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 488,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 24120,
+    "contextWindow": 200000,
+    "contextTokens": 24608,
+    "percentage": 12
+  }
+}
