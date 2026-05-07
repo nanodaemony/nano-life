@@ -180,7 +180,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 225.5
+    "width": 261.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -195,7 +195,7 @@
       "claudian:Open Claudian": false
     }
   },
-  "active": "303f944acded2e6a",
+  "active": "7b5492aeecfe4609",
   "lastOpenFiles": [
     "D-旅游/20251001-国庆-江西.md",
     "zimg/202510-江西路线.pdf",
